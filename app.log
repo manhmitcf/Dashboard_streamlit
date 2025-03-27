@@ -1,0 +1,128 @@
+2025-03-27 19:23:45,276 - __main__ - INFO - Data loaded successfully
+2025-03-27 19:23:45,284 - __main__ - INFO - Creating dashboard components
+2025-03-27 19:23:51,471 - __main__ - INFO - Dashboard created successfully
+2025-03-27 19:23:51,471 - __main__ - INFO - Applying time filters
+2025-03-27 19:23:51,504 - __main__ - INFO - Time filters applied successfully
+2025-03-27 19:26:26,369 - __main__ - INFO - Data loaded successfully
+2025-03-27 19:26:26,380 - __main__ - INFO - Creating dashboard components
+2025-03-27 19:26:32,559 - __main__ - INFO - Dashboard created successfully
+2025-03-27 19:26:32,561 - __main__ - INFO - Applying time filters
+2025-03-27 19:26:32,586 - __main__ - INFO - Time filters applied successfully
+2025-03-27 19:30:06,601 - __main__ - INFO - Data loaded successfully
+2025-03-27 19:30:06,607 - __main__ - INFO - Creating dashboard components
+2025-03-27 19:30:13,547 - __main__ - INFO - Dashboard created successfully
+2025-03-27 19:30:13,547 - __main__ - INFO - Applying time filters
+2025-03-27 19:30:13,581 - __main__ - INFO - Time filters applied successfully
+2025-03-27 19:37:10,252 - __main__ - INFO - Data loaded successfully
+2025-03-27 19:37:10,269 - __main__ - INFO - Creating dashboard components
+2025-03-27 19:37:17,974 - __main__ - INFO - Dashboard created successfully
+2025-03-27 19:37:17,975 - __main__ - INFO - Applying time filters
+2025-03-27 19:37:18,003 - __main__ - INFO - Time filters applied successfully
+2025-03-27 20:38:47,505 - __main__ - INFO - Data loaded successfully
+2025-03-27 20:38:47,506 - __main__ - INFO - Creating dashboard components
+2025-03-27 20:38:50,531 - __main__ - INFO - Dashboard created successfully
+2025-03-27 20:38:50,533 - __main__ - INFO - Applying time filters
+2025-03-27 20:38:50,555 - __main__ - INFO - Time filters applied successfully
+2025-03-27 20:44:35,671 - __main__ - INFO - Data loaded successfully
+2025-03-27 20:44:35,672 - __main__ - INFO - Creating dashboard components
+2025-03-27 20:44:42,376 - __main__ - INFO - Dashboard created successfully
+2025-03-27 20:44:42,377 - __main__ - INFO - Applying time filters
+2025-03-27 20:44:42,406 - __main__ - INFO - Time filters applied successfully
+2025-03-27 21:03:58,298 - __main__ - INFO - Data loaded successfully
+2025-03-27 21:03:58,299 - __main__ - INFO - Creating dashboard components
+2025-03-27 21:04:01,114 - __main__ - INFO - Dashboard created successfully
+2025-03-27 21:04:01,115 - __main__ - INFO - Applying time filters
+2025-03-27 21:04:01,134 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:29:57,991 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:29:57,998 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:30:05,447 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:30:05,448 - __main__ - INFO - Applying time filters
+2025-03-27 23:30:05,486 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:33:12,208 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:33:12,209 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:33:18,097 - __main__ - ERROR - Error creating dashboard: too many values to unpack (expected 3)
+2025-03-27 23:33:18,141 - __main__ - INFO - Applying time filters
+2025-03-27 23:33:18,177 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:36:47,019 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:36:47,022 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:36:54,408 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:36:54,409 - __main__ - INFO - Applying time filters
+2025-03-27 23:36:54,443 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:37:09,625 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:37:09,627 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:37:12,853 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:37:12,870 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:37:19,384 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:37:19,385 - __main__ - INFO - Applying time filters
+2025-03-27 23:37:19,425 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:37:25,846 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:37:25,846 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:37:31,074 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:37:31,076 - __main__ - INFO - Applying time filters
+2025-03-27 23:37:31,122 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:37:42,669 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:37:42,671 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:37:48,495 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:37:48,497 - __main__ - INFO - Applying time filters
+2025-03-27 23:37:48,535 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:39:27,786 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:39:27,788 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:39:32,922 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:39:32,924 - __main__ - INFO - Applying time filters
+2025-03-27 23:39:32,950 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:39:41,241 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:39:41,242 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:39:47,339 - __main__ - INFO - Dashboard created successfully
+2025-03-27 23:39:47,340 - __main__ - INFO - Applying time filters
+2025-03-27 23:39:47,383 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:48:28,645 - __main__ - ERROR - Unexpected error during data loading: too many values to unpack (expected 9)
+2025-03-27 23:49:58,599 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:49:58,601 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:49:58,601 - __main__ - ERROR - Error creating dashboard: create_dashboard() missing 1 required positional argument: 'RFM_log_scaled_df'
+2025-03-27 23:49:58,603 - __main__ - INFO - Applying time filters
+2025-03-27 23:49:58,636 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:54:35,131 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:54:35,133 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:54:35,134 - __main__ - ERROR - Error creating dashboard: create_dashboard() missing 1 required positional argument: 'RFM_log_scaled_df'
+2025-03-27 23:54:35,135 - __main__ - INFO - Applying time filters
+2025-03-27 23:54:35,156 - __main__ - INFO - Time filters applied successfully
+2025-03-27 23:56:16,957 - __main__ - INFO - Data loaded successfully
+2025-03-27 23:56:16,957 - __main__ - INFO - Creating dashboard components
+2025-03-27 23:56:16,958 - __main__ - ERROR - Error creating dashboard: create_dashboard() missing 1 required positional argument: 'RFM_log_scaled_df'
+2025-03-27 23:56:16,959 - __main__ - INFO - Applying time filters
+2025-03-27 23:56:16,988 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:00:08,882 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:00:08,883 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:00:08,884 - __main__ - ERROR - Error creating dashboard: create_dashboard() missing 1 required positional argument: 'RFM_log_scaled_df'
+2025-03-28 00:00:08,886 - __main__ - INFO - Applying time filters
+2025-03-28 00:00:08,908 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:01:12,232 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:01:12,233 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:01:12,233 - __main__ - ERROR - Error creating dashboard: create_dashboard() missing 1 required positional argument: 'RFM_log_scaled_df'
+2025-03-28 00:01:12,235 - __main__ - INFO - Applying time filters
+2025-03-28 00:01:12,271 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:01:55,481 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:01:55,483 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:02:02,863 - __main__ - INFO - Dashboard created successfully
+2025-03-28 00:02:02,866 - __main__ - INFO - Applying time filters
+2025-03-28 00:02:02,905 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:03:12,849 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:03:12,850 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:03:19,473 - __main__ - INFO - Dashboard created successfully
+2025-03-28 00:03:19,474 - __main__ - INFO - Applying time filters
+2025-03-28 00:03:19,509 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:05:37,447 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:05:37,448 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:05:44,623 - __main__ - INFO - Dashboard created successfully
+2025-03-28 00:05:44,625 - __main__ - INFO - Applying time filters
+2025-03-28 00:05:44,659 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:07:21,931 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:07:21,932 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:07:27,031 - __main__ - INFO - Dashboard created successfully
+2025-03-28 00:07:27,033 - __main__ - INFO - Applying time filters
+2025-03-28 00:07:27,065 - __main__ - INFO - Time filters applied successfully
+2025-03-28 00:48:03,001 - __main__ - INFO - Data loaded successfully
+2025-03-28 00:48:03,004 - __main__ - INFO - Creating dashboard components
+2025-03-28 00:48:08,950 - __main__ - INFO - Dashboard created successfully
+2025-03-28 00:48:08,952 - __main__ - INFO - Applying time filters
+2025-03-28 00:48:08,982 - __main__ - INFO - Time filters applied successfully

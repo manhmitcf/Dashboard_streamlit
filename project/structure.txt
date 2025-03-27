@@ -1,0 +1,9 @@
+project/
+├── modules/
+│   ├── __init__.py
+│   ├── dashboard.py         # Main dashboard + map analysis
+│   ├── kpis.py             # KPI calculations
+│   ├── sales_analysis.py   # All sales, customer, and product analysis
+│   └── utils/
+│       ├── __init__.py
+│       └── plotting.py      # All plotting and data processing functions
